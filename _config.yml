@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Weibo",
+        href: "http://null"
     },{
-        title: "简书·BY",
+        title: "zhihu",
         href: "http://null"
     },{
         title: "Apple",
         href: "https://null"
     },{
-        title: "Apple Developer",
+        title: "Android",
         href: "https://null/"
     }
 ]
