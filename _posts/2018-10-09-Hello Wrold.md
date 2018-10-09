@@ -28,6 +28,6 @@ tags:
 	>负责项目硬件设计以及嵌入式开发
 	location in chengdu
 
-#### NEXTD
+#### NEXT
 	未完待续
 	
