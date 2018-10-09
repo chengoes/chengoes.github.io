@@ -4,7 +4,7 @@ title:      Hello Git World
 subtitle:   探索新世界
 date:       2018-10-09
 author:     Chengoes
-header-img: img/post-bg-map.jpg
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - Hello World
