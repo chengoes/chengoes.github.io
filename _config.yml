@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "Weibo",
-        href: "http://null"
+        href: "https://weibo.com/chengoes"
     },{
         title: "zhihu",
         href: "http://null"
